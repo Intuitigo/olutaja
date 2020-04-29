@@ -1,0 +1,35 @@
+{
+  "name": "olutaja",
+  "version": "0.0.1",
+  "description": "Olutaja is an e-commerce platform built using Node.js, Vue.js, and MySQL.",
+  "main": "server/index.js",
+  "dependencies": {
+    "csurf": "^1.11.0",
+    "helmet": "^3.22.0",
+    "ms": "^2.1.2"
+  },
+  "devDependencies": {
+    "jshint": "^2.11.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Intuitigo/olutaja.git"
+  },
+  "keywords": [
+    "e-commerce",
+    "online-store",
+    "ecommerce",
+    "ecommerce-platform",
+    "shop",
+    "cart"
+  ],
+  "author": "Oludotun Ebiekuraju",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Intuitigo/olutaja/issues"
+  },
+  "homepage": "https://github.com/Intuitigo/olutaja#readme"
+}
